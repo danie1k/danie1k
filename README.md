@@ -1,4 +1,9 @@
-### Hi there 👋
+### Elsewhere
+
+- [Ansible Galaxy](https://galaxy.ansible.com/danie1k)
+- [Docker Hub](https://hub.docker.com/u/danie1k)
+- [PHP Packagist](https://packagist.org/packages/danie1k/)
+- [Python PyPI](https://pypi.org/user/danie1k/)
 
 <!--
 **danie1k/danie1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
