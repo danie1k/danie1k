@@ -1,9 +1,11 @@
 ### Elsewhere
 
-- [Ansible Galaxy](https://galaxy.ansible.com/danie1k)
-- [Docker Hub](https://hub.docker.com/u/danie1k)
-- [PHP Packagist](https://packagist.org/packages/danie1k/)
-- [Python PyPI](https://pypi.org/user/danie1k/)
+[![Ansible Galaxy](https://img.shields.io/badge/Ansible%20Galaxy-danie1k-black?logo=ansible)](https://galaxy.ansible.com/danie1k)
+[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-danie1k-099cec?logo=docker)](https://hub.docker.com/u/danie1k)
+[![PHP Packagist](https://img.shields.io/badge/Packagist%20(PHP)-danie1k-f28d1a?logo=packagist)](https://packagist.org/packages/danie1k/)
+[![Python PyPI](https://img.shields.io/badge/PyPI%20(Python)-danie1k-2c6d8f?logo=pypi)](https://pypi.org/user/danie1k/)
+
+[![Libraries.io](https://img.shields.io/badge/Libraries.io-danie1k-inactive)](https://libraries.io/github/danie1k/projects)
 
 <!--
 **danie1k/danie1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
